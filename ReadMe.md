@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my fullstack development skills.<br>👯 I’m looking to collaborate on freelancing projects to grow.<br>🤝 I’m looking for help with getting projects and leads online.<br>🌱 I’m currently learning ReactJS, NextJS.<br>💬 Ask me about how to mix Web Development with AI<br>⚡ Fun fact - We software engineers are real cartoons
+🔭 I’m currently working on my fullstack development skills.<br>👯 I’m looking to collaborate on freelancing projects to grow.<br>🤝 I’m looking for help with getting projects and leads online.<br>🌱 I’m currently learning ReactJS, NextJS.<br>💬 Ask me about how to mix Web Development with AI<br>⚡ Fun fact - I am boring
 
 
 ## 🌐 Socials:
